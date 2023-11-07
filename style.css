@@ -1,0 +1,40 @@
+body{
+    margin: auto;
+    font-family: Georgia, sans-serif;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1{
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 10px;
+}
+
+.button{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(38, 0, 255);
+    border: none;
+    border-radius: 10px;
+}
+
+.form_label{
+    padding: 5px;
+    font-weight: 600;
+}
+
+.form_input{
+    padding: 10px;
+    width: 350px;
+}
